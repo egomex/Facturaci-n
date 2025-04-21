@@ -27,3 +27,5 @@ print("hola mundo, sin proyecto")
 #git status
 # git branch -M main
 #git push -u origin main
+
+# pra hacer un cambio, primero hay que poner: git add, git commit y git push
